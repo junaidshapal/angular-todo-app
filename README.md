@@ -1,4 +1,4 @@
-Angular todo App.
+Angular todo Application.
 
 # ToDoApp
 
